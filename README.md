@@ -2,9 +2,9 @@
 Machine Learning Yearning  
 Author: Andrew Ng
 
-本仓库将同步更新并翻译《Machine Learning Yearning》
-Translator: YingJoy
-Blog: https://www.yingjoy.cn/
+本仓库将同步更新并翻译《Machine Learning Yearning》 <br>
+Translator: YingJoy <br>
+Blog: https://www.yingjoy.cn/ <br>
 
 ### 目录：
 
